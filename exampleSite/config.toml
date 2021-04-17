@@ -11,10 +11,12 @@ name = "Homepage"
 url = ""
 weight = 1
 [[menu.main]]
+hasChildren = true
 name = "Homepage 1"
 parent = "Homepage"
 url = "homepage/home-1"
 [[menu.main]]
+hasChildren = true
 name = "Homepage 2"
 parent = "Homepage"
 url = "homepage/home-2"
