@@ -31,10 +31,10 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "#"
 author = "Michelle Luyenga"
-author_image = ""
-bio = ""
+author_image = "/images/michelle.jpg"
+bio = "Trying to figure what I really want with my life, follow my passion, interest, do things that make myself happy. When I happy everyone close to me also happy!\nI'm a simple person and quite bold."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2021 NeeedinSomethin.com"
 description = "This is meta description"
@@ -42,7 +42,7 @@ email = "michelle@needinsomethin.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = ""
+mobile = "#"
 preloader = true
 search = true
 [params.cookies]
